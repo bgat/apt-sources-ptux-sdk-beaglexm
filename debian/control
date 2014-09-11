@@ -1,5 +1,5 @@
 Source: apt-sources-ptux-sdk-beaglexm
-Section: embedded
+Section: development
 Priority: extra
 Maintainer: Bill Gatliff <bgat@billgatliff.com>
 Build-Depends: debhelper (>= 8.0.0)
